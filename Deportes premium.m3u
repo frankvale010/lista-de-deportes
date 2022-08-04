@@ -1,29 +1,17 @@
-#EXTINF:-1,DAZN F1
-http://ku03.wanicelife.com:8880/12m0525/772229617/52416
-#EXTINF:-1,DAZN F1
-http://ku03.wanicelife.com:8880/12m0525/772229617/2578
-#EXTINF:-1,DAZN F1
-http://ku03.wanicelife.com:8880/12m0525/772229617/52365
-#EXTINF:-1,DAZN F1
-http://apk.blueiptv.live:8880/GHBNMB/4849497/228435
-#EXTINF:-1,DAZN 1
-http://ku03.wanicelife.com:8880/12m0525/772229617/29270
-#EXTINF:-1,DAZN 1
-http://apk.blueiptv.live:8880/GHBNMB/4849497/228391
-#EXTINF:-1,DAZN 2
-http://ku03.wanicelife.com:8880/12m0525/772229617/29226
-#EXTINF:-1,DAZN 2
-http://apk.blueiptv.live:8880/GHBNMB/4849497/228392
-#EXTINF:-1,ES DAZN 2
-http://apk.blueiptv.live:8880/GHBNMB/4849497/228392
-#EXTINF:-1,DAZN 3
-http://ku03.wanicelife.com:8880/12m0525/772229617/29218
-#EXTINF:-1,DAZN 3
-http://apk.blueiptv.live:8880/GHBNMB/4849497/228455
-#EXTINF:-1,DAZN 4
-http://ku03.wanicelife.com:8880/12m0525/772229617/52349
-#EXTINF:-1,DAZN 4
-http://apk.blueiptv.live:8880/GHBNMB/4849497/228456K
+#EXTINF:-1,|ES| DAZN 1
+http://cineapp.org:8000/Fernando/Fernando/58444
+#EXTINF:-1,|ES| DAZN 2
+http://cineapp.org:8000/Fernando/Fernando/58445
+#EXTINF:-1,|ES| DAZN 3
+http://cineapp.org:8000/Fernando/Fernando/58446
+#EXTINF:-1,|ES| DAZN 4
+http://cineapp.org:8000/Fernando/Fernando/58447
+#EXTINF:-1,|ES| DAZN F1
+http://cineapp.org:8000/Fernando/Fernando/58448
+#EXTINF:-1,|ES| DAZN F1 HD
+http://cineapp.org:8000/Fernando/Fernando/58449
+#EXTINF:-1,|ES| DAZN F1 FHD
+http://cineapp.org:8000/Fernando/Fernando/58450
 #EXTINF:-1,SPORT TV 1
 http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/285911
 #EXTINF:-1,SPORT TV 1 HD
@@ -48,22 +36,6 @@ http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/1459
 http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/374543
 #EXTINF:-1,SPORT TV 6 HD
 http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/367634
-#EXTINF:-1,|SP|4K| M.FORMULA1 HD
-http://txm.flysat.live:80/152004513386895/152049585430977/199253
-#EXTINF:-1,|SP|4K| M.FORMULA1
-http://txm.flysat.live:80/152004513386895/152049585430977/199252
-#EXTINF:-1,|SP|4K| M.GOLF HD
-http://txm.flysat.live:80/152004513386895/152049585430977/199251
-#EXTINF:-1,|SP|4K| DAZN 1 HD
-http://txm.flysat.live:80/152004513386895/152049585430977/199250
-#EXTINF:-1,|SP|4K| DAZN 2 HD
-http://txm.flysat.live:80/152004513386895/152049585430977/199249
-#EXTINF:-1,|SP|4K| DAZN 3 HD
-http://txm.flysat.live:80/152004513386895/152049585430977/199248
-#EXTINF:-1,|SP|4K| DAZN 4 HD
-http://txm.flysat.live:80/152004513386895/152049585430977/199247
-#EXTINF:-1,|SP| DAZN F1 HD
-http://txm.flysat.live:80/152004513386895/152049585430977/199246
 #EXTINF:-1,MX001:A&E FHD
 http://ku03.wanicelife.com:8880/12m0525/772229617/51457
 #EXTINF:-1,MX002:ADN40 FHD
