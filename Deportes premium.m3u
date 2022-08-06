@@ -1,34 +1,5 @@
 #EXTINF:-1,D-ESP | FORMULA 1 HD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/136657
-#EXTINF:-1, ESP | DAZN MOVISTAR 1*
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/136658
-#EXTINF:-1, ESP | DAZN MOVISTAR 2
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/136659
-#EXTINF:-1, ESP | DAZN MOVISTAR 3
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/136660
-#EXTINF:-1, ESP | DAZN MOVISTAR 4
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/136661
-#EXTINF:-1,ESP | DAZN 1 *L
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/67526
-#EXTINF:-1, ESP | DAZN F1
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278202
-#EXTINF:-1,ESP | DAZN MOVISTAR  F1 ᴿ
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278203
-#EXTINF:-1,ESP | DAZN MOVISTAR F1 HD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278204
-#EXTINF:-1,ESP | DAZN MOVISTAR F1 FHD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278205
-#EXTINF:-1,ESP | DAZN MOVISTAR 1 HD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278207
-#EXTINF:-1,ESP | DAZN MOVISTAR 2
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278209
-#EXTINF:-1,ESP | DAZN MOVISTAR 2 HD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278210
-#EXTINF:-1,ESP | DAZN MOVISTAR 3 HD.
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278213
-#EXTINF:-1,ESP | DAZN MOVISTAR 4 HD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/278215
-#EXTINF:-1,PT: SPORT TV 1
+http#EXTINF:-1,PT: SPORT TV 1
 http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/285911
 #EXTINF:-1,PT: SPORT TV 1 HD
 http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/302761
@@ -52,26 +23,20 @@ http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/1459
 http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/374543
 #EXTINF:-1,PT: SPORT TV 6 HD
 http://dcsport.xyz:8080/NfruMD7aPb/VFwC2wcnjn/367634
-#EXTINF:-1,MX: CANAL 5 HD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/172
-#EXTINF:-1,MX: AZTECA 7
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/24167
-#EXTINF:-1,MX: DISTRITO COMEDIA
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/31072
-#EXTINF:-1,MX: AZTECA UNO HD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/37670
-#EXTINF:-1,MX: AZTECA UNO SD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/37671
-#EXTINF:-1,MX: CANAL DE LAS ESTRELLAS
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/109056
-#EXTINF:-1,MX: CANAL DE LAS ESTRELLAS
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/158064
-#EXTINF:-1,MX: HOLA TV HD
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/159819
-#EXTINF:-1,MX: ADN 40
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/164231
-#EXTINF:-1,MX: CANAL DE LAS ESTRELLAS
-http://futboldirectotv.xyz:8080/josue2022/BNKYK/166378
 
-
-
+#EXTINF:-1,ESPAÑA | DAZN F1 FHD
+http://compitv.info:8080/Maria/1234567/177695
+#EXTINF:-1,ESPAÑA | EUROSPORTS 1 FHD
+http://compitv.info:8080/Maria/1234567/177710
+#EXTINF:-1,ESPAÑA | DAZN 1 VIP FHD
+http://compitv.info:8080/Maria/1234567/177711
+#EXTINF:-1,ESPAÑA | DAZN 2 VIP FHD
+http://compitv.info:8080/Maria/1234567/177712
+#EXTINF:-1,ESPAÑA | DAZN 3 VIP FHD
+http://compitv.info:8080/Maria/1234567/177713
+#EXTINF:-1,ESPAÑA | DAZN 4 VIP FHD
+http://compitv.info:8080/Maria/1234567/177714
+#EXTINF:-1,ESPAÑA | TELEDEPORTE FHD
+http://compitv.info:8080/Maria/1234567/177717
+#EXTINF:-1,ESPAÑA | EUROSPORTS 2 SD
+http://compitv.info:8080/Maria/1234567/177724
