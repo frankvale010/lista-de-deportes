@@ -82,13 +82,9 @@ http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/42159
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23546
 #EXTINF:-1,CINEMAX
 http://mylatinotv.com:8080/FNmdP2U7ey/HZQzvGgaPe/23524
-#EXTINF:-1,DAZN 1 HD
-http://stariptv.org:8080/hamza2022/123456/45212
-#EXTINF:-1,DAZN 2 HD
-http://stariptv.org:8080/hamza2022/123456/84599
-#EXTINF:-1,FORMULA 1 HD
-http://stariptv.org:8080/hamza2022/123456/12071
-#EXTINF:-1,Sky Sport F1 HD
-http://stariptv.org:8080/hamza2022/123456/238713
-#EXTINF:-1,Sky Sport MotoGp HD
-http://stariptv.org:8080/hamza2022/123456/238715
+#EXTINF:-1,IT : SKY SPORT F1
+http://mains.services:2086/A.Jones01/1904550/94132
+#EXTINF:-1,IT : SKY SPORT FOOTBALL
+http://mains.services:2086/A.Jones01/1904550/94131
+#EXTINF:-1,IT : SKY SPORT MOTOGP
+http://mains.services:2086/A.Jones01/1904550/94130
