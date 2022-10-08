@@ -1,24 +1,8 @@
-#EXTINF:-1,|SP| DAZN F1
-http://red.ipfox.org:8080/osama2022/osama2023/47386
-#EXTINF:-1,|SP| DAZN F1 1080P
-http://red.ipfox.org:8080/osama2022/osama2023/47385
-#EXTINF:-1,|SP| DAZN 1
-http://red.ipfox.org:8080/osama2022/osama2023/47384
-#EXTINF:-1,|SP| DAZN 1 1080P
-http://red.ipfox.org:8080/osama2022/osama2023/47383
-#EXTINF:-1,|SP| DAZN 2
-http://red.ipfox.org:8080/osama2022/osama2023/47382
-#EXTINF:-1,|SP| DAZN 2 1080P
-http://red.ipfox.org:8080/osama2022/osama2023/47381
-#EXTINF:-1,|SP| DAZN 3
-http://red.ipfox.org:8080/osama2022/osama2023/47380
-#EXTINF:-1,|SP| DAZN 3 1080P
-http://red.ipfox.org:8080/osama2022/osama2023/47379
-#EXTINF:-1,|SP| DAZN 4
-http://red.ipfox.org:8080/osama2022/osama2023/47378
-#EXTINF:-1,|SP| DAZN 4 1080P
-http://red.ipfox.org:8080/osama2022/osama2023/47377
-#EXTINF:-1,|SP| Nat Geo Wild
-http://red.ipfox.org:8080/osama2022/osama2023/47368
-#EXTINF:-1,|SP| Nat Geo Wild 1080P
-http://red.ipfox.org:8080/osama2022/osama2023/47367
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD PT" tvg-logo="" group-title="Portugal",Sport TV 4 HD PT
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68996
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 PT" tvg-logo="" group-title="Portugal",Sport TV 4 PT
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68997
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD PT" tvg-logo="" group-title="Portugal",Sport TV 5 HD PT
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68998
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 PT" tvg-logo="" group-title="Portugal",Sport TV 5 PT
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/68999
