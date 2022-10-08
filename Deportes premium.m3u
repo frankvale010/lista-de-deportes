@@ -1,2 +1,6 @@
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport Tv 4" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png" group-title="International Sport Channels",PT: Sport Tv 4
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/159585
+#EXTINF:-1,|PT| Sport TV3 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49372
+#EXTINF:-1,|PT| Sport TV4 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49371
+#EXTINF:-1,|PT| Sport TV5 HD
+http://red.ipfox.org:8080/osama2022/osama2023/49370
